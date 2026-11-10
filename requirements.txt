@@ -1,0 +1,13 @@
+torch>=2.1
+transformers>=4.40
+peft>=0.10
+accelerate>=0.27
+datasets>=2.18
+sentencepiece>=0.1.99
+protobuf>=3.20
+huggingface_hub>=0.23
+rouge-score>=0.1.2
+sacrebleu>=2.4
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7

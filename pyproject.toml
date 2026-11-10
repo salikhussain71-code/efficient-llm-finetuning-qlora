@@ -1,0 +1,55 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "efficient-llm-finetuning-qlora"
+version = "1.0.0"
+description = "Parameter-efficient fine-tuning (LoRA / QLoRA) of small language models for dialogue summarisation on SAMSum, with ROUGE/BLEU evaluation, adapter merging and Hugging Face Hub export."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+dependencies = [
+    "torch>=2.1",
+    "transformers>=4.40",
+    "peft>=0.10",
+    "accelerate>=0.27",
+    "datasets>=2.18",
+    "sentencepiece>=0.1.99",
+    "protobuf>=3.20",
+    "huggingface_hub>=0.23",
+    "rouge-score>=0.1.2",
+    "sacrebleu>=2.4",
+    "pandas>=2.0",
+    "numpy>=1.24",
+    "matplotlib>=3.7",
+]
+
+[project.optional-dependencies]
+gpu = ["bitsandbytes>=0.43", "wandb>=0.16"]
+
+[project.scripts]
+qlora-train = "qlora_finetune.train:main"
+qlora-evaluate = "qlora_finetune.evaluate:main"
+qlora-merge = "qlora_finetune.merge:main"
+qlora-push = "qlora_finetune.push:main"
+qlora-generate = "qlora_finetune.generate:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+filterwarnings = ["ignore::DeprecationWarning", "ignore::FutureWarning", "ignore::UserWarning"]
+
+[tool.ruff]
+line-length = 130
+target-version = "py39"
+extend-exclude = ["notebooks"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "W", "B"]
+
+[tool.ruff.lint.per-file-ignores]
+"scripts/build_notebook.py" = ["E501"]

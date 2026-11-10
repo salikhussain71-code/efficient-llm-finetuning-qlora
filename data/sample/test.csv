@@ -1,0 +1,95 @@
+id,dialogue,summary
+00000,"Dev: I can't make it on Wednesday, sorry.
+Iris: No problem, let's meet on Friday.",Dev cannot make it on Wednesday. Dev and Iris will meet on Friday.
+00001,"Jack: I passed the driving test!
+Ben: Congratulations, Jack!",Jack passed the driving test. Ben congratulates Jack.
+00002,"Hugo: I passed the math exam!
+Emma: Congratulations, Hugo!
+Hugo: Thanks!",Hugo passed the math exam. Emma congratulates Hugo. Hugo thanks Emma.
+00003,"Hugo: I passed the final exam!
+Iris: Congratulations, Hugo!
+Hugo: Thanks!",Hugo passed the final exam. Iris congratulates Hugo. Hugo thanks Iris.
+00004,"Carla: Where is the umbrella?
+Dev: It is in the office.
+Carla: Thanks!",Carla asks where the umbrella is. Dev says it is in the office. Carla thanks Dev.
+00005,"Anna: I can't make it on Friday, sorry.
+Ben: No problem, let's meet on Monday.
+Anna: Thanks!",Anna cannot make it on Friday. Anna and Ben will meet on Monday. Anna thanks Ben.
+00006,"Anna: I'll be 30 minutes late.
+Emma: OK, I'll wait at the garage.",Anna will be 30 minutes late. Emma will wait at the garage.
+00007,"Grace: I'll be 30 minutes late.
+Jack: OK, I'll wait at the park.",Grace will be 30 minutes late. Jack will wait at the park.
+00008,"Carla: Are you coming to the party on Tuesday?
+Farid: Yes, I will bring snacks.
+Carla: Thanks!",Carla asks Farid if Farid is coming to the party on Tuesday. Farid will bring snacks. Carla thanks Farid.
+00009,"Grace: I'll be 30 minutes late.
+Emma: OK, I'll wait at the park.",Grace will be 30 minutes late. Emma will wait at the park.
+00010,"Iris: I passed the math exam!
+Grace: Congratulations, Iris!",Iris passed the math exam. Grace congratulates Iris.
+00011,"Anna: I passed the math exam!
+Emma: Congratulations, Anna!",Anna passed the math exam. Emma congratulates Anna.
+00012,"Farid: I passed the driving test!
+Iris: Congratulations, Farid!",Farid passed the driving test. Iris congratulates Farid.
+00013,"Dev: I'm at the store. Do we need cake?
+Emma: Yes, please buy 2 cake.",Dev is at the store. Emma asks Dev to buy 2 cake.
+00014,"Hugo: I'm at the store. Do we need cake?
+Ben: Yes, please buy 5 cake.",Hugo is at the store. Ben asks Hugo to buy 5 cake.
+00015,"Anna: I'll be 20 minutes late.
+Emma: OK, I'll wait at the station.
+Anna: Thanks!",Anna will be 20 minutes late. Emma will wait at the station. Anna thanks Emma.
+00016,"Jack: I'll be 30 minutes late.
+Anna: OK, I'll wait at the library.",Jack will be 30 minutes late. Anna will wait at the library.
+00017,"Emma: I can't make it on Monday, sorry.
+Iris: No problem, let's meet on Wednesday.
+Emma: Thanks!",Emma cannot make it on Monday. Emma and Iris will meet on Wednesday. Emma thanks Iris.
+00018,"Ben: Are you coming to the concert on Thursday?
+Iris: Yes, I will bring juice.",Ben asks Iris if Iris is coming to the concert on Thursday. Iris will bring juice.
+00019,"Carla: I'm at the store. Do we need juice?
+Anna: Yes, please buy 4 juice.",Carla is at the store. Anna asks Carla to buy 4 juice.
+00020,"Jack: Are you coming to the meeting on Friday?
+Iris: Yes, I will bring juice.",Jack asks Iris if Iris is coming to the meeting on Friday. Iris will bring juice.
+00021,"Dev: I'll be 15 minutes late.
+Emma: OK, I'll wait at the office.
+Dev: Thanks!",Dev will be 15 minutes late. Emma will wait at the office. Dev thanks Emma.
+00022,"Farid: I'll be 30 minutes late.
+Anna: OK, I'll wait at the library.
+Farid: Thanks!",Farid will be 30 minutes late. Anna will wait at the library. Farid thanks Anna.
+00023,"Jack: Are you coming to the picnic on Saturday?
+Carla: Yes, I will bring juice.",Jack asks Carla if Carla is coming to the picnic on Saturday. Carla will bring juice.
+00024,"Farid: Where is the wallet?
+Emma: It is in the station.",Farid asks where the wallet is. Emma says it is in the station.
+00025,"Anna: I'm at the store. Do we need fruit?
+Farid: Yes, please buy 5 fruit.
+Anna: Thanks!",Anna is at the store. Farid asks Anna to buy 5 fruit. Anna thanks Farid.
+00026,"Jack: I can't make it on Wednesday, sorry.
+Farid: No problem, let's meet on Tuesday.
+Jack: Thanks!",Jack cannot make it on Wednesday. Jack and Farid will meet on Tuesday. Jack thanks Farid.
+00027,"Farid: I'm at the store. Do we need snacks?
+Emma: Yes, please buy 2 snacks.",Farid is at the store. Emma asks Farid to buy 2 snacks.
+00028,"Anna: I'm at the store. Do we need cheese?
+Carla: Yes, please buy 3 cheese.",Anna is at the store. Carla asks Anna to buy 3 cheese.
+00029,"Emma: I'm at the store. Do we need bread?
+Dev: Yes, please buy 5 bread.",Emma is at the store. Dev asks Emma to buy 5 bread.
+00030,"Ben: I passed the language exam!
+Jack: Congratulations, Ben!",Ben passed the language exam. Jack congratulates Ben.
+00031,"Dev: I can't make it on Monday, sorry.
+Hugo: No problem, let's meet on Wednesday.",Dev cannot make it on Monday. Dev and Hugo will meet on Wednesday.
+00032,"Dev: I'm at the store. Do we need bread?
+Hugo: Yes, please buy 2 bread.
+Dev: Thanks!",Dev is at the store. Hugo asks Dev to buy 2 bread. Dev thanks Hugo.
+00033,"Dev: I passed the math exam!
+Farid: Congratulations, Dev!",Dev passed the math exam. Farid congratulates Dev.
+00034,"Farid: I passed the language exam!
+Ben: Congratulations, Farid!",Farid passed the language exam. Ben congratulates Farid.
+00035,"Grace: I passed the language exam!
+Emma: Congratulations, Grace!",Grace passed the language exam. Emma congratulates Grace.
+00036,"Grace: I'll be 30 minutes late.
+Emma: OK, I'll wait at the park.
+Grace: Thanks!",Grace will be 30 minutes late. Emma will wait at the park. Grace thanks Emma.
+00037,"Grace: I can't make it on Monday, sorry.
+Carla: No problem, let's meet on Thursday.",Grace cannot make it on Monday. Grace and Carla will meet on Thursday.
+00038,"Jack: I'll be 30 minutes late.
+Iris: OK, I'll wait at the garage.
+Jack: Thanks!",Jack will be 30 minutes late. Iris will wait at the garage. Jack thanks Iris.
+00039,"Hugo: I'm at the store. Do we need cheese?
+Iris: Yes, please buy 4 cheese.",Hugo is at the store. Iris asks Hugo to buy 4 cheese.

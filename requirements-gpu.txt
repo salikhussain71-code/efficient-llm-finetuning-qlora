@@ -1,0 +1,4 @@
+# Extra packages for QLoRA on an NVIDIA GPU (Colab T4, etc.). Needs a CUDA build of PyTorch.
+-r requirements.txt
+bitsandbytes>=0.43
+wandb>=0.16
